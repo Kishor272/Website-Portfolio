@@ -1,0 +1,19 @@
+.contact{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:700;
+    font-size:34px;
+    
+}
+
+.contacts{
+    display:flex;
+    justify-content:center;
+       
+}
+
+
+
+.login{
+    font-weight:bold;
+    color:#ff5823;
+}

@@ -1,0 +1,68 @@
+.skills{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:700;
+    font-size:34px;
+    
+}
+
+.html1{
+    width:130px;
+    height:20px;
+    background-color:rgb(18, 25, 96);
+    border: none;
+}
+
+.html2{
+    width:40px;
+    height:20px;
+    background-color:#ff5823;
+     border: none;
+}
+
+.css1{
+    width:130px;
+    height:20px;
+    background-color:rgb(18, 25, 96);
+    border: none;
+}
+
+.css2{
+    width:40px;
+    height:20px;
+    background-color:#ff5823;
+     border: none;
+}
+
+.js1{
+    width:130px;
+    height:20px;
+    background-color:rgb(18, 25, 96);
+    border: none;
+}
+
+.js2{
+    width:40px;
+    height:20px;
+    background-color:#ff5823;
+     border: none;
+}
+
+.react1{
+    width:120px;
+    height:20px;
+    background-color:rgb(18, 25, 96);
+    border: none;
+}
+
+.react2{
+    width:50px;
+    height:20px;
+    background-color:#ff5823;
+     border: none;
+}
+
+.keys{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bolder;
+}
+

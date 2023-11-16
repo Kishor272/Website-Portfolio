@@ -1,0 +1,22 @@
+.education{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:700;
+    font-size:34px;
+    
+}
+
+.mac{
+    color: #ff5823;
+    font-weight: bolder;
+    font-size: 22px;
+}
+
+
+
+.year{
+     background-color:#ff5823 ;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    color:#fff;
+}
