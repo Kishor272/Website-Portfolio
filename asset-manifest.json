@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Website-Portfolio/static/css/main.af1ff4d4.css",
+    "main.js": "/Website-Portfolio/static/js/main.ae9ae469.js",
+    "static/js/787.723214ac.chunk.js": "/Website-Portfolio/static/js/787.723214ac.chunk.js",
+    "static/media/kishor M Final Resume.pdf": "/Website-Portfolio/static/media/kishor M Final Resume.0f865fd018dcdc9431c1.pdf",
+    "static/media/IMG_20230406_221754.jpg": "/Website-Portfolio/static/media/IMG_20230406_221754.3ac3f94397972229d43d.jpg",
+    "index.html": "/Website-Portfolio/index.html",
+    "main.af1ff4d4.css.map": "/Website-Portfolio/static/css/main.af1ff4d4.css.map",
+    "main.ae9ae469.js.map": "/Website-Portfolio/static/js/main.ae9ae469.js.map",
+    "787.723214ac.chunk.js.map": "/Website-Portfolio/static/js/787.723214ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af1ff4d4.css",
+    "static/js/main.ae9ae469.js"
+  ]
+}
