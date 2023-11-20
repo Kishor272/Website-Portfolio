@@ -24,7 +24,7 @@ export default function Layouts() {
           <div class="collapse navbar-collapse  " id="navbarNav">
             <ul class="navbar-nav mx-auto nav-underline">
               <li class="nav-item mx-3">
-                <a class="nav-link  " href="/#home">
+                <a class="nav-link  " href="/">
                   Home
                 </a>
               </li>
@@ -60,7 +60,9 @@ export default function Layouts() {
           <p className="h4 mt-4">Web Developer</p>
           <p className="h6 mt-4">Knack of building Web Applications</p>
           <div className="btns mt-5 ">
-            <a href="#contact" className="one first ">Hire Me</a>
+            <a href="#contact" className="one first ">
+              Hire Me
+            </a>
             <a href={download} download>
               <button className="one second ">Get Resume</button>
             </a>
